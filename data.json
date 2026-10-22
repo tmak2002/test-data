@@ -1,0 +1,27 @@
+
+{
+  "tags": [
+    {
+      "uuid": "c977693c-26aa-4d71-8c3f-e477bc58c30c",
+      "username": "0zzu",
+      "slug": "divinity",
+      "displayName": "Divinity",
+      "color": "#583f09",
+      "logoPath": "/logos/ea948756-91ab-4245-8dae-f7f9f408f153.png",
+      "logoPosition": "before",
+      "isPrimary": true,
+      "displayOrder": 0
+    },
+    {
+      "uuid": "2719df2d-9a4e-4b3f-9b19-c7631ed80252",
+      "username": "0zzu",
+      "slug": "vex",
+      "displayName": "Vex",
+      "color": "#583f09",
+      "logoPath": "",
+      "logoPosition": "before",
+      "isPrimary": false,
+      "displayOrder": 1
+    }
+  ]
+}
